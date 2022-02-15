@@ -5,7 +5,7 @@ See here for the details:
 
 https://www.contributor-covenant.org/version/1/4/code-of-conduct
 
-To report or discuss issues you can email clem64.combier@gmail.com or clement64.combier@gmail.com or just open a public issue on GitHub.
+To report or discuss issues you can email [stonks-life-inc@gmail.com](mailto:stonks-life-inc@gmail.com) or just open a public issue on GitHub.
 
 ---
 
@@ -71,8 +71,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-
-[clem64.combier@gmail.com](mailto:clem64.combier@gmail.com) OR [clement64.combier@gmail.com](mailto:clement64.combier@gmail.com) .
+[stonks-life-inc@gmail.com](mailto:stonks-life-inc@gmail.com) .
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the

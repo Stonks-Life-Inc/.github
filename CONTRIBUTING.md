@@ -4,10 +4,8 @@ First, thank you for reading this and if you are planning on contributing to thi
 
 ## Code of conduct
 
-First, before you do anything on this project, read the [code of conduct](https://github.com/Ttiki/.github/blob/main/CODE_OF_CONDUCT.md) carefully. They cover basic rules which needs to be respected or else you might be ban from contributing to any project in the future.
-If you spot any bad behavior from anyone, please send a mail to one of these two e-mails:
-* [clem64.combier@gmail.com](mailto:clem64.combier@gmail.com)
-* [clement64.combier@gmail.com](mailto:clement64.combier@gmail.com)
+First, before you do anything on this project, read the [code of conduct](https://github.com/Stonks-Life-Inc/.github/blob/main/CODE_OF_CONDUCT.md) carefully. They cover basic rules which needs to be respected or else you might be ban from contributing to any project in the future.
+If you spot any bad behavior from anyone, please send a mail to [stonks-life-inc@gmail.com](mailto:stonks-life-inc@gmail.com)
 **⚠Don't try to start a fight or admin this project on your own.**
 
 ### I don't want to read this whole thing I just have a question!!!
@@ -47,6 +45,5 @@ Pull Request is the last step in contributing to the project. A template has bee
 >If you are an experimented developer you should remeber when you first started. Anyone can propose ideas!**
 
 Thank you very much to anyone contributing and anyone making Open Source and this project a nice and friendly place for anyone!
-Ttiki,<br/>
-Adios<br/>
+Stonks Life Inc,<br/>
 ❤
