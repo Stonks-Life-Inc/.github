@@ -1,7 +1,7 @@
 name: 🐞 Bug report
 description: Report a bug/issue
 title: "[🐞BUG] - <title>"
-labels: "Bug", "Needs Triage"
+labels: ["Bug", "Needs Triage"]
 body:
 - type: checkboxes
   attributes:
