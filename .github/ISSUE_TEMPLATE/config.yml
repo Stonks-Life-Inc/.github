@@ -1,5 +1,9 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Discussion
     url: https://github.com/Stonks-Life-Inc/.github/discussions
     about: Join the general discussion! We talk about everything and anything.
+  - name: Mail
+    url: mailto:stonks-life-inc@gmail.com
+    about: Send us a mail
+
