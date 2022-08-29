@@ -1,7 +1,7 @@
 name: 📕 Security issue
 description: 📕 Report a documentation issue
-title: "[📕Documentation issue] <title>"
-labels: [Documentation]
+title: "[📕Documentation issue] - <title>"
+labels: [documentation]
 body:
 - type: checkboxes
   attributes:
