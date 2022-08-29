@@ -1,6 +1,6 @@
 name: ⚠ Security issue
-description: ⚠ Report a security issue
-title: "[⚠SECURITY ISSUE⚠] - <title>"
+description: Report a security issue
+title: "[⚠ SECURITY ISSUE ⚠] - <title>"
 labels: [security issue, urgent]
 body:
 - type: checkboxes

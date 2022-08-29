@@ -1,6 +1,6 @@
-name: 📕 Security issue
-description: 📕 Report a documentation issue
-title: "[📕Documentation issue] - <title>"
+name: 📕 Documentation issue
+description: Report a documentation issue
+title: "[📕 Documentation issue] - <title>"
 labels: [documentation]
 body:
 - type: checkboxes
@@ -18,6 +18,8 @@ body:
     - label: Mistake
     - label: Something is missing
     - label: Credit error
+    - label: Other (_Add details below_)
+    required: true
 - type: textarea
   attributes:
     label: Documentation issue description
