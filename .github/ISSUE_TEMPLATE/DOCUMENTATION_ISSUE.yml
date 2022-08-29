@@ -10,7 +10,7 @@ body:
     options:
     - label: I have searched the existing issues
       required: true
-- type: radio
+- type: checkboxes
   attributes:
     label: Type of issue
     description: What is the kind of issue with the documentation?
